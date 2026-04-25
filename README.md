@@ -1,6 +1,6 @@
 # JWT Authentication & Microservices Demo
 
-Bu proje, JWT tabanlı authentication, refresh token mimarisi, role-based authorization, RabbitMQ ile event-driven communication, microservice mimarisi ve React frontend konularını kapsayan uçtan uca bir demo uygulamasıdır.
+Bu proje, JWT tabanlı authentication, refresh token mimarisi, role-based authorization, RabbitMQ ile event-driven communication, microservice mimarisi ve React frontend konularını kapsayan N11 bootcamp kapsamında konulara genel bir bakış açısı kazanmak üzere geliştirilmiş bir demo uygulamasıdır.
 
 ## Proje Yapısı
 
@@ -365,6 +365,10 @@ Frontend tarafında access token ve refresh token localStorage üzerinde saklan�
 ```text
 Authorization: Bearer ACCESS_TOKEN
 ```
+
+## Demo UI
+<img width="1270" height="883" alt="image" src="https://github.com/user-attachments/assets/1f0a6ff8-730e-42f1-8000-9ab9e164b602" />
+
 
 ## Notlar
 
