@@ -1,0 +1,42 @@
+# ======================
+# GENERAL
+# ======================
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ======================
+# JAVA / SPRING BOOT
+# ======================
+target/
+*.jar
+*.war
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# ======================
+# NODE / REACT
+# ======================
+node_modules/
+dist/
+build/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# ENV FILES
+# ======================
+.env
+.env.*
+
+# ======================
+# OS
+# ======================
+Thumbs.db
